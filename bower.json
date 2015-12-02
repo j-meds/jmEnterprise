@@ -1,0 +1,19 @@
+{
+  "name": "enterpriseApp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/josemedina760/bakeryStore",
+  "authors": [
+    "josemedina760 <josemedina760@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
